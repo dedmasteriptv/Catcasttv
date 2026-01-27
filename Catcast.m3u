@@ -5,6 +5,8 @@ https://v2.catcast.tv/content/50341/seg-25461425-v1-a1/index.m3u8
 https://v2.catcast.tv/content/50372/seg-25479823-v1-a1/index.m3u8
 #EXTINF:-1,PlyerKomedi Azerbaycan Filmi
 https://v2.catcast.tv/content/50370/seg-25479617-v1-a1/index.m3u8
+#EXTINF:-1,PlayerKomedi AzFilm
+https://v2.catcast.tv/content/50373/seg-25480049-v1-a1/index.m3u8
 #EXTINF:-1,PlayerKomedi Деревня Дураков
 https://v2.catcast.tv/content/50369/seg-25478087-v1-a1/index.m3u8
 #EXTINF:-1,PlayerZevqMusic
@@ -21,6 +23,8 @@ https://v2.catcast.tv/content/50366/seg-25468540-v1-a1/index.m3u8
 https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
 #EXTINF:-1,Mega tv__Kemal Sunal
 https://v2.catcast.tv/content/48695/seg-25410378-v1-a1/index.m3u8
+#EXTINF:-1,Hababam tv
+https://v2.catcast.tv/content/50271/seg-25410477-v1-a1/index.m3u8
 #EXTINF:-1,Komedixana
 https://v2.catcast.tv/content/50172/seg-25409926-v1-a1/index.m3u8
 #EXTINF:-1,AZ Komedya
@@ -63,8 +67,6 @@ https://v2.catcast.tv/content/39200/seg-25409961-v1-a1/index.m3u8
 https://v2.catcast.tv/content/39199/seg-25409987-v1-a1/index.m3u8
 #EXTINF:-1,Komedi Turk
 https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
-#EXTINF:-1,Hababam tv
-https://v2.catcast.tv/content/50271/seg-25410477-v1-a1/index.m3u8
 #EXTINF:-1,Turk mahni
 https://v2.catcast.tv/content/50313/seg-25410485-v1-a1/index.m3u8
 #EXTINF:-1,Rihat music
