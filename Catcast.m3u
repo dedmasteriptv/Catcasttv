@@ -37,7 +37,7 @@ https://v2.catcast.tv/content/50364/seg-25467687-v1-a1/index.m3u8
 https://v2.catcast.tv/content/50366/seg-25468540-v1-a1/index.m3u8
 #EXTINF:-1,Kanal65 
 https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
-#EXTINF:-1,Mega tv__Kemal Sunal
+#EXTINF:-1 tvg-name="MEGA Saban"tvg-logo="https://img.catcast.tv/uploads/04062025/banners/48695-683f783bd2ce8.png",MEGA Saban
 https://v2.catcast.tv/content/48695/seg-25410378-v1-a1/index.m3u8
 #EXTINF:-1,Hababam tv
 https://v2.catcast.tv/content/50271/seg-25410477-v1-a1/index.m3u8
