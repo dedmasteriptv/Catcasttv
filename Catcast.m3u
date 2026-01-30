@@ -35,7 +35,7 @@ https://v2.catcast.tv/content/50364/seg-25467687-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerGencMusic"tvg-logo="https://i.ibb.co/mrwyfCpC/Chat-GPT-Image-26-2026-14-09-51.png",PlayerGencMusic
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50366/seg-25468540-v1-a1/index.m3u8
-#EXTINF:-1, tvg-name="Şuşa tv"tvg-logo="https://i.ibb.co/WT6t72c/file-00000000ec907246bbf92e62a55400ba.png",Şuşa tv
+#EXTINF:-1 tvg-name="Şuşa tv"tvg-logo="https://i.ibb.co/WT6t72c/file-00000000ec907246bbf92e62a55400ba.png",Şuşa tv
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3533/stream/play.m3u8
 #EXTINF:-1,Kanal65 
