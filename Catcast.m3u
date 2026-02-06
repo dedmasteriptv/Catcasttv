@@ -8,6 +8,9 @@ https://v2.catcast.tv/content/50372/seg-25479823-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Hind Filmleri"tvg-logo="https://i.ibb.co/XZwmvVxG/Chat-GPT-Image-29-2026-17-23-40.png",PlayerCinema Hind Filmleri
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50392/seg-25495827-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="PlayerFilm TÜRKIYE"tvg-logo="https://img.catcast.tv/uploads/06022026/banners/50471-698616d192481.png",PlayerFilm TÜRKIYE
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50471/seg-25565614-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/banners/50472-6985de4898c4d.png",PlayerFilm AZERBAYCAN
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50472/seg-25564410-v1-a1/index.m3u8
@@ -248,6 +251,24 @@ https://v2.catcast.tv/content/49642/seg-25411865-v1-a1/index.m3u8
 https://v2.catcast.tv/content/43161/seg-25411918-v1-a1/index.m3u8
 #EXTINF:-1, Nor Max
 https://v2.catcast.tv/content/40660/seg-25411930-v1-a1/index.m3u8
+#EXTINF:-1,BUTYA tv mult
+https://v2.catcast.tv/content/41954/seg-25565086-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/04062021/banners/40304-60b9fc5ee2423.png",KINOBOX_BEST FILM
+https://v2.catcast.tv/content/40304/seg-25565057-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/18012020/37712-5e235559a9d17.jpg",Back in Time mult
+https://v2.catcast.tv/content/37712/seg-25565035-v1-a1/index.m3u8
+#EXTINF:-1,SONG Music
+https://v2.catcast.tv/content/43704/seg-25564989-v1-a1/index.m3u8
+#EXTINF:-1,MultSeriali(3+)
+https://v2.catcast.tv/content/47757/seg-25564958-v1-a1/index.m3u8
+#EXTINF:-1,DISNEY
+https://v2.catcast.tv/content/39025/seg-25564938-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01082024/banners/43707-66abbb7d0ce52.png",SEPEN Music
+https://v2.catcast.tv/content/43707/seg-25564900-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25052024/banners/47101-66521f526db46.png",Chyorniy Plash
+https://v2.catcast.tv/content/47101/seg-25564886-v1-a1/index.m3u8
+#EXTINF:-1,HÇRT Musıc
+https://v2.catcast.tv/content/50466/seg-25564793-v1-a1/index.m3u8
 #EXTINF:-1,Roshtik
 https://v2.catcast.tv/content/38299/seg-25556192-v1-a1/index.m3u8
 #EXTINF:-1,Primere HD
