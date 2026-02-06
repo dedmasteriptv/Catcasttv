@@ -8,6 +8,9 @@ https://v2.catcast.tv/content/50372/seg-25479823-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Hind Filmleri"tvg-logo="https://i.ibb.co/XZwmvVxG/Chat-GPT-Image-29-2026-17-23-40.png",PlayerCinema Hind Filmleri
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50392/seg-25495827-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/banners/50472-6985de4898c4d.png",PlayerFilm AZERBAYCAN
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50472/seg-25564410-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Bozbash Pikcher"tvg-logo="https://i.ibb.co/wh5RtK6v/Chat-GPT-Image-29-2026-17-19-31.png",PlayerKomedi Bozbash Pikcher
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50393/seg-25495849-v1-a1/index.m3u8
