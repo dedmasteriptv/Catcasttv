@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="PlayerCinema TV"tvg-logo="https://i.ibb.co/CsYpx2zm/Chat-GPT-Image-26-2026-18-31-14.png",PlayerCinema TV
+#EXTINF:-1 tvg-name="PlayerCinema Action"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png",PlayerCinema Action
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50341/seg-25461425-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Az Dublyaj"tvg-logo="https://i.ibb.co/KcxnqcC1/Chat-GPT-Image-27-2026-22-05-18.png",PlayerCinema Az Dublyaj
@@ -8,25 +8,28 @@ https://v2.catcast.tv/content/50372/seg-25479823-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Hind Filmleri"tvg-logo="https://i.ibb.co/XZwmvVxG/Chat-GPT-Image-29-2026-17-23-40.png",PlayerCinema Hind Filmleri
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50392/seg-25495827-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerFilm TÜRKIYE"tvg-logo="https://img.catcast.tv/uploads/06022026/banners/50471-698616d192481.png",PlayerFilm TÜRKIYE
+#EXTINF:-1 tvg-name="PlayerFilm TÜRKIYE"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50471-698617f126fce.png",PlayerFilm TÜRKIYE
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50471/seg-25565614-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/banners/50472-6985de4898c4d.png",PlayerFilm AZERBAYCAN
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50472/seg-25564410-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Bozbash Pikcher"tvg-logo="https://i.ibb.co/wh5RtK6v/Chat-GPT-Image-29-2026-17-19-31.png",PlayerKomedi Bozbash Pikcher
+#EXTINF:-1 tvg-name="PlayerKomedi Bozbash Pictures 2"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b495e5c4bd.png",PlayerKomedi Bozbash Pictures 2
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50393/seg-25495849-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Az Film"tvg-logo="https://i.ibb.co/Qjzt4Y9Y/Chat-GPT-Image-27-2026-20-40-55.png",PlyerKomedi Az Film
+#EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png",PlayerFilm AZERBAYCAN
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50472/seg-25564410-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="PlayerKomedi Az Film"tvg-logo=https://img.catcast.tv/uploads/10022026/logos/27208-698b3ee28d791.png"",PlyerKomedi Az Film
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50370/seg-25479617-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi AzFilm 2"tvg-logo="https://i.ibb.co/V0FTw2mp/Chat-GPT-Image-28-2026-14-48-15.png",PlayerKomedi AzFilm 2
+#EXTINF:-1 tvg-name="PlayerKomedi AzFilm 2"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b40068f023.png",PlayerKomedi AzFilm 2
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50373/seg-25480049-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Деревня Дураков"tvg-logo="https://i.ibb.co/cSXd1BMg/Chat-GPT-Image-27-2026-17-07-35.png",PlayerKomedi Деревня Дураков
+#EXTINF:-1 tvg-name="PlayerKomedi Деревня Дураков"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b36fc31801.png",PlayerKomedi Деревня Дураков
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50369/seg-25478087-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerWWE"tvg-logo="https://img.catcast.tv/uploads/01022026/banners/50428-697f52a21d758.png",PlayerWWE
+#EXTINF:-1 tvg-name="PlayerWWE"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b47525faf6.png",PlayerWWE
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50428/seg-25528453-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Cennet Mahallesi"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b410a2af28.png",PlayerKomediCennet Mahallesi 
