@@ -29,6 +29,9 @@ https://v2.catcast.tv/content/50369/seg-25478087-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerWWE"tvg-logo="https://img.catcast.tv/uploads/01022026/banners/50428-697f52a21d758.png",PlayerWWE
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50428/seg-25528453-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="PlayerKomedi Cennet Mahallesi"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b410a2af28.png",PlayerKomediCennet Mahallesi 
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50489/seg-25599463-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Kemal Sunal"tvg-logo="https://img.catcast.tv/uploads/02022026/banners/50433-698060ae366e2.png",PlayerKomedi Kemal Sunal
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50433/seg-25528538-v1-a1/index.m3u8
