@@ -71,12 +71,30 @@ https://v2.catcast.tv/content/50350/seg-25462671-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerMeyxana tv"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990ea6d419ed.png",PlayerMeyxana tv
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50364/seg-25467687-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerGencMusic"https://img.catcast.tv/uploads/15022026/logos/27208-6990e0d0c6970.png",PlayerGencMusic
+#EXTINF:-1 tvg-name="PlayerGencMusic"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e0d0c6970.png",PlayerGencMusic
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50366/seg-25468540-v1-a1/index.m3u8
 #EXTINF:-1,ismayilli tv
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3533/stream/play.m3u8
+#EXTINF:-1,YansimaSinema tv
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50498/seg-25600376-v1-a1/index.m3u8
+#EXTINF:-1,Yansimaslowsarkilar
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50486/seg-25600398-v1-a1/index.m3u8
+#EXTINF:-1,Bayzan HITS
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50514/seg-25636612-v1-a1/index.m3u8
+#EXTINF:-1,Ispanyon-Music
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50518/seg-25636631-v1-a1/index.m3u8
+#EXTINF:-1,Rus Kino
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50521/seg-25636645-v1-a1/index.m3u8
+#EXTINF:-1,Jetix Ru
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50519/seg-25636656-v1-a1/index.m3u8
 #EXTINF:-1,Kanal65 
 https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
 #EXTINF:-1 tvg-name="MEGA Saban"tvg-logo="https://img.catcast.tv/uploads/04062025/banners/48695-683f783bd2ce8.png",MEGA Saban
