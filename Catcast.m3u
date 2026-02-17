@@ -92,12 +92,37 @@ https://v2.catcast.tv/content/50366/seg-25468540-v1-a1/index.m3u8
 #EXTINF:-1,ismayilli tv
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3533/stream/play.m3u8
+#EXTINF:-1,Az Film
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50545/seg-25649109-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/12072024/banners/47437-669061dfa8088.png",KANAL 65 Music original
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/47437/seg-25649902-v1-a1/index.m3u8
+#EXTINF:-1,Şaban tv
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50543/seg-25649090-v1-a1/index.m3u8
 #EXTINF:-1,YansimaSinema tv
 #EXTGRP:TURK
 https://v2.catcast.tv/content/50498/seg-25600376-v1-a1/index.m3u8
 #EXTINF:-1,Yansimaslowsarkilar
 #EXTGRP:TURK
 https://v2.catcast.tv/content/50486/seg-25600398-v1-a1/index.m3u8
+
+#EXTINF:-1,KAYU cizgifilm TR
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50551/seg-25657195-v1-a1/index.m3u8
+#EXTINF:-1,Köstebekgıller cizgifilm TR
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50558/seg-25657174-v1-a1/index.m3u8
+#EXTINF:-1,Pepe cizgifilm TR
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50549/seg-25657148-v1-a1/index.m3u8
+#EXTINF:-1,7/24 Music TR
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50313/seg-25649253-v1-a1/index.m3u8
+#EXTINF:-1,BEN10 mult
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50546/seg-25649164-v1-a1/index.m3u8
 #EXTINF:-1,Bayzan HITS
 #EXTGRP:TURK
 https://v2.catcast.tv/content/50514/seg-25636612-v1-a1/index.m3u8
@@ -162,6 +187,31 @@ https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
 https://v2.catcast.tv/content/50498/seg-25600376-v1-a1/index.m3u8
 #EXTINF:-1,Yansimaslowsarkilar
 https://v2.catcast.tv/content/50486/seg-25600398-v1-a1/index.m3u8
+
+#EXTINF:-1,Telekanal O
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50555/seg-25652711-v1-a1/index.m3u8
+#EXTINF:-1,Pirat tv 
+#EXTGRP:RUS
+https://v2.catcast.tv/content/37801/seg-25651093-v1-a1/index.m3u8
+#EXTINF:-1,KinoMobil
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50014/seg-25649304-v1-a1/index.m3u8
+#EXTINF:-1,KinoMobil Classic Komedi
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50027/seg-25649279-v1-a1/index.m3u8
+#EXTINF:-1,Rus Kino
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50521/seg-25636645-v1-a1/index.m3u8
+#EXTINF:-1,Jetix Ru
+#EXTGRP:RUS
+https://v2.catcast.tv/content/50519/seg-25636656-v1-a1/index.m3u8
+#EXTINF:-1,Xoroşıy Serıal
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40710/seg-25649178-v1-a1.ts
+#EXTINF:-1,MTV Rusiya
+#EXTGRP:RUS
+https://v2.catcast.tv/content/45105/seg-25649019-v1-a1/index.m3u8
 #EXTINF:-1,Turk mahni
 https://v2.catcast.tv/content/50313/seg-25410485-v1-a1/index.m3u8
 #EXTINF:-1,Rihat music
