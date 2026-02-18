@@ -65,12 +65,24 @@ https://v2.catcast.tv/content/50501/seg-25626759-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Roman Havası"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f8d7bc95e0.png",PlayerKomedi Roman Havası
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50490/seg-25626794-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="PlayerTürk Şener Şen"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-6995a04e8b6b3.png",PlayerTürk Şener Şen
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50564/seg-25665421-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Kemal Sunal"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f740bca2b2.png",PlayerKomedi Kemal Sunal
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50433/seg-25528538-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Kemal Sunal 2"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f8403578fc.png",PlayerKomedi Kemal Sunal 2
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50432/seg-25549469-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="PlayerKomedi Kemal Sunal 3"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-69959d5b37054.png",PlayerKomedi Kemal Sunal 3
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50563/seg-25665470-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="PlayerTürk Şener Şen"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-6995a04e8b6b3.png",PlayerTürk Şener Şen
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50564/seg-25665421-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="PlayerCizgiFılmı Maşa ve Ayı"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-69959eda535ac.png",PlayerCizgiFılmı Maşa ve Ayı
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50560/seg-25658080-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerZevqMusic"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f85351a5aa.png",PlayerZevqMusic
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50368/seg-25476934-v1-a1/index.m3u8
