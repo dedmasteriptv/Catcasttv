@@ -83,6 +83,9 @@ https://v2.catcast.tv/content/50564/seg-25665421-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerCizgiFılmı Maşa ve Ayı"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-69959eda535ac.png",PlayerCizgiFılmı Maşa ve Ayı
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50560/seg-25658080-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="PlayerCizgiFilm SEVIMLILER"tvg-logo="https://img.catcast.tv/uploads/20022026/logos/27208-69983e5d6f4f5.png",PlayerCizgiFilm SEVIMLILER
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50576/seg-25677206-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerZevqMusic"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f85351a5aa.png",PlayerZevqMusic
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50368/seg-25476934-v1-a1/index.m3u8
@@ -101,6 +104,10 @@ https://v2.catcast.tv/content/50364/seg-25467687-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerGencMusic"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e0d0c6970.png",PlayerGencMusic
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50366/seg-25468540-v1-a1/index.m3u8
+#EXTINF:-1 tvg-name="PlayerHind MUSIC"tvg-logo="https://img.catcast.tv/uploads/20022026/logos/27208-69983391a56a1.png",PlayerHind MUSIC
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50578/seg-25684143-v1-a1/index.m3u8
+
 #EXTINF:-1,ismayilli tv
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3533/stream/play.m3u8
@@ -119,7 +126,12 @@ https://v2.catcast.tv/content/50498/seg-25600376-v1-a1/index.m3u8
 #EXTINF:-1,Yansimaslowsarkilar
 #EXTGRP:TURK
 https://v2.catcast.tv/content/50486/seg-25600398-v1-a1/index.m3u8
-
+#EXTINF:-1,Qarfild cizgifilm TR
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50573/seg-25674527-v1-a1/index.m3u8
+#EXTINF:-1,Koyun Şon cizgifilm TR
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50562/seg-25669410-v1-a1/index.m3u8
 #EXTINF:-1,KAYU cizgifilm TR
 #EXTGRP:TURK
 https://v2.catcast.tv/content/50551/seg-25657195-v1-a1/index.m3u8
