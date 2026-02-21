@@ -1,112 +1,107 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="PlayerCinema Action"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png",PlayerCinema Action
+#EXTINF:-1 tvg-name="PlayerCinema TV"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png",PlayerCinema TV
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50341/seg-25461425-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAction.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Action 2"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e39f4e99f.png",PlayerCinema Action 2
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50534/seg-25636028-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAction2.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Action 3"tvg-logo="https://img.catcast.tv/uploads/17022026/logos/27208-69940d45482c7.png",PlayerCinema Action 3
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50554/seg-25652587-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAction3.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Action 4"tvg-logo="https://img.catcast.tv/uploads/17022026/logos/27208-69940e5c08373.png",PlayerCinema Action 4
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50556/seg-25652680-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAction4.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Fantastika"tvg-logo="https://img.catcast.tv/uploads/17022026/logos/27208-69940c609c2f6.png",PlayerCinema Fantastika
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50553/seg-25652619-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaFantastika.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema John Wick"tvg-logo="https://img.catcast.tv/uploads/17022026/logos/27208-69940a9b8fe87.png",PlayerCinema John Wick
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50520/seg-25652648-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Az Dublyaj"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Az Dublyaj
-#EXTGRP:Azerbaycan 
-https://v2.catcast.tv/content/50372/seg-25479823-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaJohnWick.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Hind Filmleri"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind Filmleri
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50392/seg-25495827-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerFilm TÜRKIYE"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50471-698617f126fce.png",PlayerFilm TÜRKIYE
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaHindFilmleri.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema Az Dublyaj"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Az Dublyaj
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50471/seg-25565614-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAzDublyaj.m3u8
 #EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png",PlayerFilm AZERBAYCAN
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50472/seg-25564410-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Bu Şeherde"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f8c00d356d.png",PlayerKomedi Bu Şeherde
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50515/seg-25626776-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Bu Şeherde 2"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e8f10acc5.png",PlayerKomedi Bu Şeherde 2
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50527/seg-25634101-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Bozbash Pictures 1"tvg-logo="https://img.catcast.tv/uploads/11022026/logos/27208-698c4de711d45.png",PlayerKomedi Bozbash Pictures 1
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50500/seg-25626750-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Bozbash Pictures 2"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b495e5c4bd.png",PlayerKomedi Bozbash Pictures 2
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50393/seg-25495849-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png",PlayerFilm AZERBAYCAN
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50472/seg-25564410-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerFilmAZE.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Az Film"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b3ee28d791.png",PlyerKomedi Az Film
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50370/seg-25479617-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediAzFilm1.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi AzFilm 2"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b40068f023.png",PlayerKomedi AzFilm 2
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50373/seg-25480049-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediAzFilm2.m3u8
+#EXTINF:-1 tvg-name="PlayerKomedi Bozbash Pictures 1"tvg-logo="https://img.catcast.tv/uploads/11022026/logos/27208-698c4de711d45.png",PlayerKomedi Bozbash Pictures 1
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediBozbasPictures1.m3u8
+#EXTINF:-1 tvg-name="PlayerKomedi Bozbash Pikcher"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b495e5c4bd.png",PlayerKomedi Bozbash Pikcher 2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediBozbasPictures2.m3u8
+#EXTINF:-1 tvg-name="PlayerKomedi Bu Şeherde"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f8c00d356d.png",PlayerKomedi Bu Şeherde
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediBuSeherde.m3u8
+#EXTINF:-1 tvg-name="PlayerKomedi Bu Şeherde 2"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e8f10acc5.png",PlayerKomedi Bu Şeherde 2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediBuSeherde2.m3u8.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Деревня Дураков"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b36fc31801.png",PlayerKomedi Деревня Дураков
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50369/seg-25478087-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerWWE"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b47525faf6.png",PlayerWWE
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediDerevnyaDurakov.m3u8
+#EXTINF:-1 tvg-name="PlayerFilm TÜRKIYE"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50471-698617f126fce.png",PlayerFilm TÜRKIYE
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50428/seg-25528453-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Cennet Mahallesi"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b410a2af28.png",PlayerKomediCennet Mahallesi 
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50489/seg-25599463-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Cennet Mahallesi 2"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f7834503d3.png",PlayerKomedi Cennet Mahallesi 2
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50501/seg-25626759-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerFilmTR.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Roman Havası"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f8d7bc95e0.png",PlayerKomedi Roman Havası
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50490/seg-25626794-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerTürk Şener Şen"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-6995a04e8b6b3.png",PlayerTürk Şener Şen
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediRomanHavasi.m3u8
+#EXTINF:-1 tvg-name="PlayerKomedi Cennet Mahallesi"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b410a2af28.png",PlayerKomedi Cennet Mahallesi 
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50564/seg-25665421-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediCennetMahallesi.m3u8
+#EXTINF:-1 tvg-name="PlayerKomedi Cennet Mahallesi 2"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f7834503d3.png",PlayerKomedi Cennet Mahallesi 2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediCennetMahallesi2.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Kemal Sunal"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f740bca2b2.png",PlayerKomedi Kemal Sunal
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50433/seg-25528538-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKemalSunal1.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Kemal Sunal 2"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f8403578fc.png",PlayerKomedi Kemal Sunal 2
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50432/seg-25549469-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediKemalSunal2.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Kemal Sunal 3"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-69959d5b37054.png",PlayerKomedi Kemal Sunal 3
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50563/seg-25665470-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKemalSunal3.m3u8
 #EXTINF:-1 tvg-name="PlayerTürk Şener Şen"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-6995a04e8b6b3.png",PlayerTürk Şener Şen
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50564/seg-25665421-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediSenerSen.m3u8
 #EXTINF:-1 tvg-name="PlayerCizgiFılmı Maşa ve Ayı"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-69959eda535ac.png",PlayerCizgiFılmı Maşa ve Ayı
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50560/seg-25658080-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCizgiFilmMasaVeAyi.m3u
+#EXTINF:-1 tvg-name="PlayerWWE"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b47525faf6.png",PlayerWWE
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerWWE.m3u8
 #EXTINF:-1 tvg-name="PlayerCizgiFilm SEVIMLILER"tvg-logo="https://img.catcast.tv/uploads/20022026/logos/27208-69983e5d6f4f5.png",PlayerCizgiFilm SEVIMLILER
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50576/seg-25677206-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerZevqMusic"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f85351a5aa.png",PlayerZevqMusic
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50368/seg-25476934-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerMusic HIT"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e24835bfa.png",PlayerMusic HIT
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50342/seg-25462482-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerMusic Aze"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990eba6d3c4a.png",PlayerMusic Aze
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50350/seg-25462671-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCizgiFilmSevimliler.m3u8
 #EXTINF:-1 tvg-name="PlayerTOY Mahnıları"tvg-logo="https://img.catcast.tv/uploads/16022026/logos/27208-6992c83902d6e.png",PlayerTOY Mahnıları
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50538/seg-25642112-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerMeyxana tv"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990ea6d419ed.png",PlayerMeyxana tv
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerToyMahnilari.m3u8
+#EXTINF:-1 tvg-name="PlayerMusic Aze"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990eba6d3c4a.png",PlayerMusic Aze
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50364/seg-25467687-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerMusicAZE.m3u8
 #EXTINF:-1 tvg-name="PlayerGencMusic"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e0d0c6970.png",PlayerGencMusic
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50366/seg-25468540-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerGencMusic.m3u8
+#EXTINF:-1 tvg-name="PlayerMeyxana tv"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990ea6d419ed.png",PlayerMeyxana tv
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerMEYXANA.m3u8
+#EXTINF:-1 tvg-name="PlayerZevqMusic"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f85351a5aa.png",PlayerZevqMusic
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerZevqMusic.m3u8
+#EXTINF:-1 tvg-name="PlayerMusic HIT"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e24835bfa.png",PlayerMusic HIT
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerMusicHit.m3u8
 #EXTINF:-1 tvg-name="PlayerHind MUSIC"tvg-logo="https://img.catcast.tv/uploads/20022026/logos/27208-69983391a56a1.png",PlayerHind MUSIC
 #EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50578/seg-25684143-v1-a1/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerHindMusic.m3u8
+
 
 #EXTINF:-1,ismayilli tv
 #EXTGRP:Azerbaycan
