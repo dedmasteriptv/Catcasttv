@@ -23,6 +23,12 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerC
 #EXTINF:-1 tvg-name="PlayerCinema Az Dublyaj"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Az Dublyaj
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAzDublyaj.m3u8
+#EXTINF:-1 tvg-name="PlayerFilm QARABAĞ DÖYÜŞLERİ"tvg-logo="https://img.catcast.tv/uploads/27022026/logos/27208-69a1b18a86803.png",PlayerFilm QARABAĞ DÖYÜŞLERİ
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerFilm%20QARABAG%20DOYUSLERI.m3u8
+#EXTINF:-1 tvg-name="Player VETEN OĞLU"tvg-logo="https://img.catcast.tv/uploads/27022026/logos/27208-69a1b07fe19ad.png",Player VETEN OĞLU
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerVETENOGLU.m3u8
 #EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png",PlayerFilm AZERBAYCAN
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerFilmAZE.m3u8
@@ -102,7 +108,9 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerM
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerHindMusic.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26022026/logos/27146-69a07881100d5.png",BalacanTV
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50634/seg-25745099-v1-a1/index.m3u8
 #EXTINF:-1,ismayilli tv
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3533/stream/play.m3u8
@@ -121,6 +129,15 @@ https://v2.catcast.tv/content/50498/seg-25600376-v1-a1/index.m3u8
 #EXTINF:-1,Yansimaslowsarkilar
 #EXTGRP:TURK
 https://v2.catcast.tv/content/50486/seg-25600398-v1-a1/index.m3u8
+#EXTINF:-1,M 7/24 (music tr)
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50313/seg-25729093-v1-a1/index.m3u8
+#EXTINF:-1,Niloya cizgi
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50625/seg-25728522-v1-a1/index.m3u8
+#EXTINF:-1,TvT tv
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50626/seg-25729058-v1-a1/index.m3u8
 #EXTINF:-1,Qarfild cizgifilm TR
 #EXTGRP:TURK
 https://v2.catcast.tv/content/50573/seg-25674527-v1-a1/index.m3u8
@@ -207,6 +224,78 @@ https://v2.catcast.tv/content/50498/seg-25600376-v1-a1/index.m3u8
 #EXTINF:-1,Yansimaslowsarkilar
 https://v2.catcast.tv/content/50486/seg-25600398-v1-a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22112024/banners/48083-67407f96e76be.png",Tom & Jerry new
+#EXTGRP:RUS
+https://v2.catcast.tv/content/48083/seg-25746391-v1-a1/index.m3u8
+#EXTINF:-1,KTV mult
+#EXTGRP:RUS
+https://v2.catcast.tv/content/34800/seg-25729043-v1-a1/index.m3u8
+#EXTINF:-1,SUBBOTA
+#EXTGRP:RUS
+https://v2.catcast.tv/content/49393/seg-25729023-v1-a1/index.m3u8
+#EXTINF:-1,Xeshteq
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38426/seg-25728976-v1-a1/index.m3u8
+#EXTINF:-1,SATURDAY
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41944/seg-25728939-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/13072020/banners/38762-5f0c716393e4a.png",Fork Portal
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38762/seg-25728825-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/16032024/banners/46093-65f5f94cb05ec.jpg",Rodina (music)
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46093/seg-25728786-v1-a1/index.m3u8
+#EXTINF:-1,Pitichko Music
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43487/seg-25728772-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/15082024/banners/47639-66be2cfc91006.png",NTV Comedy
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47639/seg-25728757-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/27042024/banners/46757-662d07c589149.png",Shou Toma i Jerry
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46757/seg-25728740-v1-a1/index.m3u8
+#EXTINF:-1,Kinomaniya
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46420/seg-25728723-v1-a1/index.m3u8
+#EXTINF:-1,RHS:Detskiy HD
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42498/seg-25728705-v1-a1/index.m3u8
+#EXTINF:-1,Bayraktar online tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/41619/seg-25728686-v1-a1/index.m3u8
+#EXTINF:-1,ATB 
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38944/seg-25728663-v1-a1/index.m3u8
+#EXTINF:-1,Fenix Fantastik
+#EXTGRP:RUS
+https://v2.catcast.tv/content/40110/seg-25728653-v1-a1/index.m3u8
+#EXTINF:-1,Rossiya XP
+#EXTGRP:RUS
+https://v2.catcast.tv/content/46117/seg-25728621-v1-a1/index.m3u8
+#EXTINF:-1,OK! tv
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39614/seg-25728605-v1-a1/index.m3u8
+#EXTINF:-1,Music World
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42474/seg-25728586-v1-a1/index.m3u8
+#EXTINF:-1,Kotik SSSR
+#EXTGRP:RUS
+https://v2.catcast.tv/content/44957/seg-25728570-v1-a1.ts
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/29102022/banners/42376-635c57b295c26.png",Kinozal HD
+#EXTGRP:RUS
+https://v2.catcast.tv/content/42376/seg-25728536-v1-a1/index.m3u8
+#EXTINF:-1,Tom and Jerry 24/7
+#EXTGRP:RUS
+https://v2.catcast.tv/content/43075/seg-25728488-v1-a1/index.m3u8
+#EXTINF:-1,Multseriali(3+)VHS
+#EXTGRP:RUS
+https://v2.catcast.tv/content/47757/seg-25728464-v1-a1/index.m3u8
+#EXTINF:-1,Fork Portal Stream
+#EXTGRP:RUS
+https://v2.catcast.tv/content/38847/seg-25728432-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22082020/banners/39009-5f418484c725e.jpg",Mistik
+#EXTGRP:RUS
+https://v2.catcast.tv/content/39009/seg-25728405-v1-a1/index.m3u8
 #EXTINF:-1,Telekanal O
 #EXTGRP:RUS
 https://v2.catcast.tv/content/50555/seg-25652711-v1-a1/index.m3u8
