@@ -17,6 +17,108 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerC
 #EXTINF:-1 tvg-name="PlayerCinema John Wick"tvg-logo="https://img.catcast.tv/uploads/17022026/logos/27208-69940a9b8fe87.png",PlayerCinema John Wick
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaJohnWick.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema Squid Game 1"tvg-logo="https://img.catcast.tv/uploads/04032026/logos/27208-69a86a4e39608.png",PlayerCinema Squid Game 1
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_SquidGame%20_1.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema Squid Game 2"tvg-logo="https://img.catcast.tv/uploads/05032026/logos/27208-69a9287ee1d34.png",PlayerCinema Squid Game 2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_Squid_Game2.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema Squid Game 3"tvg-logo="https://img.catcast.tv/uploads/05032026/logos/27208-69a9287ee1d34.png",PlayerCinema Squid Game 3
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_Squid_Game3.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema ALICE 1"tvg-logo="https://img.catcast.tv/uploads/05032026/banners/50675-69a9728529751.png",PlayerCinema ALICE 1
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ALICE-1.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema ALICE 2"tvg-logo="https://img.catcast.tv/uploads/05032026/banners/50676-69a972edce92d.png",PlayerCinema ALICE 2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ALICE-2.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema ALICE 3"tvg-logo="https://img.catcast.tv/uploads/05032026/banners/50677-69a97357e6881.png",PlayerCinema ALICE 3
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ALICE-3.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema CEHENNEM MELEKLERI"tvg-logo="https://img.catcast.tv/uploads/05032026/logos/27208-69a97781d4547.png",PlayerCinema CEHENNEM MELEKLERI
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_CEHENNEM-MELEKLERI.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema MATRIX"tvg-logo="",PlayerCinema MATRIX
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_MATRIX.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema RAMBO"tvg-logo="https://img.catcast.tv/uploads/05032026/banners/50690-69a977f55fea2.png",PlayerCinema RAMBO
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_RAMBO.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema ROCKY"tvg-logo="",PlayerCinema ROCKY
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ROCKY.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema VAN DAMME 1"tvg-logo="",PlayerCinema VAN DAMME 1
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_VAN-DAMME-1.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema VAN DAMME 2"tvg-logo="",PlayerCinema VAN DAMME 2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_VAN-DAMME-2.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema FORSAJ 1"tvg-logo="",PlayerCinema FORSAJ 1
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_FORSAJ-1.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema FORSAJ 2"tvg-logo="",PlayerCinema FORSAJ 2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_FORSAJ-2.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema OLUM YARISI"tvg-logo="https://img.catcast.tv/uploads/05032026/banners/50691-69a978c992f75.png",PlayerCinema OLUM YARISI
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_OLUM-YARISI.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema MORTAL COMBAT"tvg-logo="",PlayerCinema MORTAL COMBAT
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_M)RTAL-COMBAT.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema BOYKA"tvg-logo="",PlayerCinema BOYKA
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_BOYKA.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema JASON STATNAM"tvg-logo="",PlayerCinema JASON STATNAM
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_JASON-STATNAM.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema TRANSFORMER 1"tvg-logo="",PlayerCinema TRANSFORMER 1
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_TRANSFORMER-1.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema TRANSFORMER 2"tvg-logo="",PlayerCinema TRANSFORMER 2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_TRANSFORMER-2.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema BOLLYWOOD"tvg-logo="",PlayerCinema BOLLYWOOD
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_BOLLYWOOD.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema ANTONIO BANDERAS"tvg-logo="",PlayerCinema ANTONIO BANDERAS
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ANTONIO-BANDERAS.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema ACTION 5"tvg-logo="",PlayerCinema ACTION 5
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ACTION-5.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema JACKE CHAN 1"tvg-logo="",PlayerCinema JACKE CHAN 1
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_JACKE-CHAN-1.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema JACKE CHAN 2"tvg-logo="",PlayerCinema JACKE CHAN 2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_JACKE-CHAN-2.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema STIVEN SEGAL 1"tvg-logo="",PlayerCinema STIVEN SEGAL 1
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_STIVEN-SEGAL-1.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema STIVEN SEGAL 2"tvg-logo="",PlayerCinema STIVEN SEGAL 2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_STIVEN-SEGAL-2.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema PREMIUM 1"tvg-logo="",PlayerCinema PREMIUM 1
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_PREMIUM-1.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema PREMIUM 2"tvg-logo="",PlayerCinema PREMIUM 2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_PREMIUM-2.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema CONTINENTAL"tvg-logo="",PlayerCinema CONTINENTAL
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_CONTINENTAL.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema JOHN WICK HD"tvg-logo="",PlayerCinema JOHN WICK HD
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_JOHN-WICK_HD.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema BRUS LEE"tvg-logo="",PlayerCinema BRUS LEE
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_BRUS-LEE.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema BRENDON LEE"tvg-logo="",PlayerCinema BRENDON LEE
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_BRENDON-LEE.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema TERMINATOR"tvg-logo="",PlayerCinema TERMINATOR
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_TERMINATOR.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Hind Filmleri"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind Filmleri
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaHindFilmleri.m3u8
